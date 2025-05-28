@@ -3,6 +3,7 @@ description: >
   Sonar Dart lint rules.
 version: 1.0.0
 repository: https://github.com/4rthurmonteiro/sonar_analysis
+issue_tracker: https://github.com/4rthurmonteiro/sonar_analysis/issues
 
 environment:
   sdk: ^3.7.2
