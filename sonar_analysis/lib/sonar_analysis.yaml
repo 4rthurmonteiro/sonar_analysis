@@ -96,7 +96,6 @@ linter:
     - control_flow_in_finally
     - provide_deprecation_message
     - empty_statements
-    - unused_label
     - avoid_print
     - camel_case_types
     - implementation_imports
