@@ -1,7 +1,7 @@
 name: sonar_analysis
 description: >
   Sonar Dart lint rules.
-version: 2.0.1
+version: 3.0.0
 repository: https://github.com/4rthurmonteiro/sonar_analysis
 issue_tracker: https://github.com/4rthurmonteiro/sonar_analysis/issues
 
@@ -9,7 +9,7 @@ environment:
   sdk: ^3.7.2
 
 dependencies:
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 topics:
   - analysis

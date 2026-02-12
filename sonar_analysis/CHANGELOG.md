@@ -1,3 +1,7 @@
+## 3.0.0
+
+- Upgrade `flutter_lints` to `^6.0.0`.
+
 ## 2.0.1
 
 - Fix: remove `unused_label`.
