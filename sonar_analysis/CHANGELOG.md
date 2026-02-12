@@ -1,3 +1,7 @@
+## 3.0.1
+
+- Add `directives_ordering`.
+
 ## 3.0.0
 
 - Upgrade `flutter_lints` to `^6.0.0`.

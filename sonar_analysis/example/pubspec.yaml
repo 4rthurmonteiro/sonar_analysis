@@ -7,5 +7,5 @@ environment:
   sdk: ^3.7.2
 
 dev_dependencies:
-  sonar_analysis: ^2.0.0
+  sonar_analysis: ^3.0.1
 
